@@ -6,7 +6,7 @@ I'm Mary-Ann Egbudom, a passionate Data Analyst and Scientist specializing in ac
 
 This portfolio showcases some of my work:
 
-- [CO2 Emission Prediction](https://github.com/maryannegbudom/co2-emission-prediction)
+- [CO2 Emission Prediction](https://github.com/maryannegbudom/predicting-co2-emission)
 - [SPECIAL EPD Database Management](https://github.com/maryannegbudom/special-epd-database-management)
 - [Crime Data Power BI Dashboard](https://github.com/maryannegbudom/crime-data-dashboard) (Coming Soon)
 - [Airbnb Price Prediction](https://github.com/maryannegbudom/airbnb-price-prediction) (Coming Soon)
